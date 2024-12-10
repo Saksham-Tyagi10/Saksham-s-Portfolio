@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html{
+    scroll-behavior: smooth;
+}
+header{
+    height: 10vh;
+    background-color: rgb(9, 156, 248);
+    text-align: center;
+    line-height: 10vh;
+    font-size: 2em;
+}
+body{
+    background-color: #C9E6F0;
+}
+main{
+    padding: 2em;
+    font-size: 2em;
+    font-weight: lighter;
+}

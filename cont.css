@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html{
+    scroll-behavior: smooth;
+}
+header{
+    height: 10vh;
+    background-color: rgb(9, 156, 248);
+    text-align: center;
+    line-height: 10vh;
+    font-size: 3em;
+}
+body{
+    background-color: #C9E6F0;
+}
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
+.mbx{
+    height: 40vmin;
+    width: 70vmin;
+    border: 2px solid black;
+    border-radius: 3em;
+    text-align: center;
+    font-size: 1.5em;
+}
+img{
+    height: 12vmin;
+    width: 10vmin;
+    border-radius: 3em;
+    position: relative;
+    top: 0;
+    right: 0;
+}
+.icon{
+    height: 10vmin;
+    width: 70vmin;
+    /* border: 2px solid black; */
+    display: flex;
+    justify-content: space-around;
+    margin-top: 0.4em;
+}
+#ingm{
+    height: 5vmin;
+    width: 5vmin;
+    border-radius: 2em;
+}
