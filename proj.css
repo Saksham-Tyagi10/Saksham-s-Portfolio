@@ -19,6 +19,7 @@ main{
     height: 90vh;
     text-align: center;
     font-size: 1.7em;
+    /* line-height: 90vh; */
 }
 video{
     height: 40vmin;
